@@ -20,7 +20,7 @@ From _"The Life Changing Magic of Tidying up"_, I learnt how reducing clutter ca
 Community Activities
 ====================
 
-Organizer of the Chennai Docker community | Since Aug 2016
+Organizer of the Chennai Docker community | Since Aug 2016          
 Co-Organizer of Chennai Go Community  | Since Jan 2016
 
 Talks
