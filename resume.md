@@ -15,13 +15,13 @@ Skedole is a node.js app that connects to your Google calendar to help you find 
 
 Circle
 ------
-From _"The Life Changing Magic of Tidying up"_, I learnt how reducing clutter can significantly improve our lives. Since I spend my life on a computer, I wrote an application that can organize my folders based on MIME types, regular expressions or file extensions. Circle was one of the finalists for GopherGala 2015. 
+From "The Life Changing Magic of Tidying up", I learnt how reducing clutter can significantly improve our lives. Since I spend my life on a computer, I wrote an application that can organize my folders based on MIME types, regular expressions or file extensions. Circle was one of the finalists for GopherGala 2015. 
 
 Community Activities
 ====================
 
 Organizer of the Chennai Docker community | Since Aug 2016          
-Co-Organizer of Chennai Go Community  | Since Jan 2016
+Co-Organizer of Chennai Go Community  | Since Jan 2017
 
 Talks
 =====
