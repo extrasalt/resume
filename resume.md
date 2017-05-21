@@ -1,6 +1,6 @@
 Mohanarangan Muthukumar
 =======================
-self-taught programmer - web development - distributed systems - Go - Javascript - likes to build machines
+Self taught programmer - Distributed systems - Go - Javascript - Likes to build machines - Web Development - History buff 
 
 Projects
 =========
