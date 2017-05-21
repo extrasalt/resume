@@ -13,6 +13,10 @@ Skedole
 -------
 Skedole is a node.js app that connects to your Google calendar to help you find available slots to schedule your tasks. UI supports both keyboard and mouse input to assign tasks to slots.  
 
+Distbox
+-------
+Distbox is a personal file storage service backed by IPFS. It is resilent in a way that as long as you have the keys, you can access your files from any independent distbox provider. 
+
 Circle
 ------
 From "The Life Changing Magic of Tidying up", I learnt how reducing clutter can significantly improve our lives. Since I spend my life on a computer, I wrote an application that can organize my folders based on MIME types, regular expressions or file extensions. Circle was one of the finalists for GopherGala 2015. 
@@ -37,6 +41,10 @@ Introduction to orchestration and feature comparison of Swarm, Mesos and Kuberne
 ###Building a baremetal Go PaaS with Kubernetes
 _Chennai Go meetup, March 2017_     
 Deploying a fully packaged go binary still involves a lot of boilerplate. Presented an alternative where a simple Kubernetes service can deploy any go binary dropped into it and explained how it can be recreated to fit particular needs. 
+
+###Reclaiming your infrastructure with Kubernetes
+_Indian Linux User Group Chennai, March 2017_      
+There is a sentiment in the free software world that IaaS runs largely against the values of Free Software. Kubernetes can help organizations meaningfully take back large parts of their infrastructure back in house with a hybrid architecture, reducing costs without compromising on scalability
 
 #Formal Education
 Anna University | Mohamed Sathak A.J College of Engineering |
