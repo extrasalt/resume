@@ -44,7 +44,8 @@ Deploying a fully packaged go binary still involves a lot of boilerplate. Presen
 
 ###Reclaiming your infrastructure with Kubernetes
 _Indian Linux User Group Chennai, March 2017_      
-There is a sentiment in the free software world that IaaS runs largely against the values of Free Software. Kubernetes can help organizations meaningfully take back large parts of their infrastructure back in house with a hybrid architecture, reducing costs without compromising on scalability
+There is a sentiment in the free software community that IaaS runs largely against the values of Free Software. A federated solution using Kubernetes brings parts of the infrastructure back in-house, reducing costs, without compromising on scalability. 
+
 
 #Formal Education
 Anna University | Mohamed Sathak A.J College of Engineering |
