@@ -36,7 +36,7 @@ The sudden rise of containers has led to a lot of bad practices. The talk explai
 
 ###Container Orchestration with Kubernetes and Swarm
 _Chennai Docker meetup, March 2017_    
-Introduction to orchestration and feature comparison of Swarm, Mesos and Kubernetes. Explained different Kubernetes Objects and demoed load balancing in a Kubernetes service. 
+Introduction to orchestration and feature comparison of Swarm, Mesos and Kubernetes. Explained different Kubernetes Objects and demoed load balancing in a Kubernetes service. [Slides](http://slides.com/extrasalt/deck) 
 
 ###Building a baremetal Go PaaS with Kubernetes
 _Chennai Go meetup, March 2017_     
