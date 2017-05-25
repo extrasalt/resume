@@ -7,19 +7,19 @@ Projects
 
 Podder
 ------
-Podder is a multi-tenant baremetal PaaS that runs on top of Kubernetes. It can deploy any go binary that is dropped into it, as a service if it exposes the HTTP port. Podder is an attempt at being the userspace of a distributed operating system. 
+[Podder](http://github.com/extrasalt/podder) is a multi-tenant baremetal PaaS that runs on top of Kubernetes. It can deploy any go binary that is dropped into it, as a service if it exposes the HTTP port. Podder is an attempt at being the userspace of a distributed operating system. 
 
 Skedole
 -------
-Skedole is a node.js app that connects to your Google calendar to help you find available slots to schedule your tasks. UI supports both keyboard and mouse input to assign tasks to slots.  
+[Skedole](http://github.com/extrasalt/skedole) is a node.js app that connects to your Google calendar to help you find available slots to schedule your tasks. UI supports both keyboard and mouse input to assign tasks to slots.  
 
 Distbox
 -------
-Distbox is a personal file storage service backed by IPFS. It is resilent in a way that as long as you have the keys, you can access your files from any independent distbox provider. 
+[Distbox](http://github.com/extrasalt/distbox) is a personal file storage service backed by IPFS. It is resilent in a way that as long as you have the keys, you can access your files from any independent distbox provider. 
 
 Circle
 ------
-From "The Life Changing Magic of Tidying up", I learnt how reducing clutter can significantly improve our lives. Since I spend my life on a computer, I wrote an application that can organize my folders based on MIME types, regular expressions or file extensions. Circle was one of the finalists for GopherGala 2015. 
+From "The Life Changing Magic of Tidying up", I learnt how reducing clutter can significantly improve our lives. Since I spend my life on a computer, I wrote an application that can organize my folders based on MIME types, regular expressions or file extensions. [Circle](http://github.com/extrasalt/circle) was one of the finalists for [GopherGala](http://gophergala.com/blog/gopher/gala/2015/01/31/finalists/) 2015. 
 
 Community Activities
 ====================
